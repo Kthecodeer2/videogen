@@ -90,8 +90,3 @@ video = generate_video_bytedance(
     motion_style='natural'
 )
 ```
-
-## API Status
-
-**Note**: Some APIs (Luma, Meta, ByteDance) may not have public API access yet or may require special access. Please check the official documentation for each service for the most up-to-date information on API availability and access.
-
